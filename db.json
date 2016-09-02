@@ -1,0 +1,62 @@
+{
+  "players": [
+    {
+      "id": 2,
+      "name": "Hank",
+      "level": 14
+    },
+    {
+      "id": 5,
+      "name": "Farting",
+      "level": 24
+    },
+    {
+      "id": 3,
+      "name": "Thomas",
+      "level": 5
+    },
+    {
+      "id": 4,
+      "name": "Joe",
+      "level": 10
+    }
+  ],
+  "perks": [
+    {
+      "id": 1,
+      "name": "Hello",
+      "attribute": "World",
+      "bonus": "asd"
+    },
+    {
+      "id": 2,
+      "name": "Hello",
+      "attribute": "World",
+      "bonus": "asd"
+    },
+    {
+      "id": 3,
+      "name": "Hello",
+      "attribute": "World",
+      "bonus": "asd"
+    },
+    {
+      "id": 4,
+      "name": "Hello",
+      "attribute": "World",
+      "bonus": "asd"
+    },
+    {
+      "id": 5,
+      "name": "Hello",
+      "attribute": "World",
+      "bonus": "asd"
+    },
+    {
+      "id": 6,
+      "name": "Hello",
+      "attribute": "World",
+      "bonus": "asd"
+    }
+  ]
+}

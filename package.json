@@ -1,0 +1,20 @@
+{
+  "name": "dynamic-org-chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "api": "node api.js",
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "dev": "webpack-dev-server --port 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ace-css": "^1.1.0",
+    "font-awesome": "^4.6.3",
+    "json-server": "^0.8.18",
+    "webpack-dev-server": "^1.15.0"
+  }
+}
